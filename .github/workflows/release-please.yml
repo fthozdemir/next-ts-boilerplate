@@ -4,9 +4,9 @@ on:
   # !Option 1: Manual Trigger from GitHub
   workflow_dispatch:
   # !Option 2: Release on every push on main branch
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 jobs:
   release-please:
     runs-on: ubuntu-latest
