@@ -1,4 +1,7 @@
 name: release-please
+permissions:
+  contents: read
+  pull-requests: write
 on:
   # !STARTERCONF Choose your preferred event
   # !Option 1: Manual Trigger from GitHub
