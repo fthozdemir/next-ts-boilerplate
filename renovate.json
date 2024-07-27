@@ -1,0 +1,9 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", "group:all"],
+  "updatePinnedDependencies": false,
+  "stabilityDays": 2,
+  "separateMajorMinor": true,
+  "timezone": "Turkey",
+  "schedule": ["every 2 weeks on Monday"]
+}
