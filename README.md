@@ -1,6 +1,6 @@
-# Next.js + Tailwind CSS + TypeScript Boilerplate & Starter
+# Next.js + Tailwind CSS + TypeScript Boilerplate
 
-A comprehensive starter pack featuring Next.js, TypeScript, Tailwind CSS, and Shadcn UI. Additionally, AI-powered extensions are included but kept separate to maintain the core boilerplate structure—use them as needed."
+A comprehensive starter kit featuring Next.js, TypeScript, Tailwind CSS, and Shadcn UI. Additionally, AI-powered extensions are included but kept separate to maintain the core boilerplate structure—use them as needed."
 
 ### Know bugs wait to solve
 
