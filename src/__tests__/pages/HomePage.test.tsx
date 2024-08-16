@@ -1,4 +1,4 @@
-// !STARTERCONF You should delete this page
+// !CONFIGURE You should delete this page
 
 import { render, screen } from "@testing-library/react";
 

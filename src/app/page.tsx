@@ -7,7 +7,7 @@ import "@/lib/env";
 
 import { cn } from "@/lib/utils";
 
-import { buttonVariants } from "@/components/ui/button";
+import { buttonVariants } from "@/components/button";
 
 /**
  * SVGR Support
@@ -18,7 +18,7 @@ import { buttonVariants } from "@/components/ui/button";
  */
 import Logo from "~/svg/Logo.svg";
 
-// !STARTERCONF -> Select !STARTERCONF and CMD + SHIFT + F
+// !CONFIGURE -> Select !CONFIGURE and CMD + SHIFT + F
 // Before you begin editing, follow all comments with `STARTERCONF`,
 // to customize the default configuration.
 
