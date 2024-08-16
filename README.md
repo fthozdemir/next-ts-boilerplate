@@ -2,9 +2,6 @@
 
 A comprehensive starter pack featuring Next.js, TypeScript, Tailwind CSS, and Shadcn UI. Additionally, AI-powered Storybook and Next-Intl Internationalization [expansions](https://github.com/fthozdemir/next-expansion-pack) are included but kept separate to maintain the core boilerplate structure—use them as needed.
 
-### Know bugs wait to solve
-
-- husky commits can not found npx when only try to commit on **SoucreTree** only, using terminal is fine
 
 ## Features
 
@@ -107,3 +104,7 @@ Find all comments with **_!CONFIGURE_**, then follow the guide.
 ## Expansion Pack 📦
 
 This boilerplate has [expansion pack](https://github.com/fthozdemir/next-expansion-pack).
+
+### Know bugs wait to solve
+
+- husky commits can not found npx when only try to commit on **SoucreTree** only, using terminal is fine
