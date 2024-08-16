@@ -1,4 +1,4 @@
-# Next.js + Tailwind CSS + TypeScript Boilerplate & Starter
+# Next.js + Tailwind CSS + TypeScript Boilerplate
 
 A comprehensive starter pack featuring Next.js, TypeScript, Tailwind CSS, and Shadcn UI. Additionally, AI-powered Storybook and Next-Intl Internationalization [expansions](https://github.com/fthozdemir/next-expansion-pack) are included but kept separate to maintain the core boilerplate structure—use them as needed.
 
