@@ -1,6 +1,5 @@
 "use client";
 
-import Head from "next/head";
 import * as React from "react";
 import "@/lib/env";
 
@@ -21,7 +20,6 @@ import { Skeleton } from "@/components/skeleton";
 export default function ComponentPage() {
   return (
     <section>
-      <Head>Components</Head>
       <h1>Components</h1>
       <h2>Button</h2>
       <div className="flex gap-4">

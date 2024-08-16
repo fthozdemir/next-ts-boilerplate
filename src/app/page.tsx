@@ -1,6 +1,5 @@
 "use client";
 
-import Head from "next/head";
 import Link from "next/link";
 import * as React from "react";
 import "@/lib/env";
@@ -25,9 +24,6 @@ import Logo from "~/svg/Logo.svg";
 export default function HomePage() {
   return (
     <main>
-      <Head>
-        <title>Hi</title>
-      </Head>
       <section className="container flex items-center justify-center bg-white">
         <div className="relative flex min-h-screen flex-col items-center justify-center py-12 text-center">
           <Logo className="size-24" />
