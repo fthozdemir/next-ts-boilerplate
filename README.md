@@ -91,7 +91,7 @@ pnpm install
 pnpm dev
 ```
 
-Access [http://localhost:3000](http://localhost:3000) in your browser to view. Begin editing the page by making changes to `src/pages/index.tsx`.
+Access [http://localhost:3000](http://localhost:3000) in your browser to view. Begin editing the page by making changes to `src/app/page.tsx`.
 
 ### 4. Change Default Configurations
 
