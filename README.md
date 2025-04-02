@@ -74,7 +74,7 @@ A comprehensive starter pack featuring Next.js, TypeScript, Tailwind CSS, and Sh
   Create a new Next.js app with this template using the following command:
 
   ```bash
-  pnpm create next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter ts-pnpm
+  pnpm create next-app -e https://github.com/fthozdemir/next-ts-boilerplate ts-pnpm
   ```
 
 ### 2. Install dependencies
