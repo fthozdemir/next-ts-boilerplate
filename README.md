@@ -2,13 +2,12 @@
 
 A comprehensive starter pack featuring Next.js, TypeScript, Tailwind CSS, and Shadcn UI. Additionally, AI-powered Storybook and Next-Intl Internationalization [expansions](https://github.com/fthozdemir/next-expansion-pack) are included but kept separate to maintain the core boilerplate structure—use them as needed.
 
-
 ## Features
 
-- <u>**Next.js 14 with App Router**</u>  
+- <u>**Next.js 15 with App Router**</u>  
   Leverage the latest App Router for enhanced routing capabilities.
 
-- <u>**React 18**</u>  
+- <u>**React 19**</u>  
   Enjoy concurrent features and the latest improvements in React 18.
 
 - <u>**TypeScript**</u>  
@@ -17,7 +16,7 @@ A comprehensive starter pack featuring Next.js, TypeScript, Tailwind CSS, and Sh
 - <u>**Shadcn/UI Ready**</u>  
   Seamlessly integrated Shadcn UI for a cohesive design system.
 
-- <u>**Tailwind CSS 3**</u>  
+- <u>**Tailwind CSS 4**</u>  
   Utility-first CSS framework with the latest version of Tailwind.
 
 - <u>**Pre-built Components**</u>  
